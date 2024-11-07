@@ -34,8 +34,8 @@ Tugas pertemuan 7 praktikum pemrograman mobile membuat fitur login dengan menggu
 ## Screenshots
 
 <p>
-  <img src="img_1.png" style="margin: 10px;">
-  <img src="img_2.png" style="margin: 10px;">
-  <img src="img_3.png" style="margin: 10px;">
-  <img src="img_4.png" style="margin: 10px;">
+  <img src="img_1.png" style="">
+  <img src="img_2.png" style="">
+  <img src="img_3.png" style="">
+  <img src="img_4.png" style="">
 </p>
